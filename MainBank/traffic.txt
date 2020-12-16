@@ -1,0 +1,13 @@
+200 
+5
+4
+5 12 
+80 
+Personal 65 
+Business 35 
+Savings 50 30 
+Checking 30 55
+MoneyMarket 8 0
+CertificateOfDeposits 12 0
+HighVolumeChecking 0 10
+ForeignCurrency 0 5

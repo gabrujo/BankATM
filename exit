@@ -1,0 +1,83 @@
+[33mcommit 26ed4bbfa4bf7e3926b88734d7ee9691480d0692[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 21:53:48 2020 -0500
+
+    new businessaccount
+
+[33mcommit e4dd393ad8afe60842154829988729ac8508b7fa[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 21:50:07 2020 -0500
+
+    new adds
+
+[33mcommit 063102e9f249f74896c191ddd938b5c3379e2d3c[m
+Author: Shreyash Sharma <sharmashreyash.16@gmail.com>
+Date:   Wed Nov 4 21:22:52 2020 -0500
+
+    Add files via upload
+    
+    Personal Saving and Checking Account class.
+    High Volume Checking Account
+    Foreign Checking Account
+    Commint_01
+
+[33mcommit 01cff3db75e64bb3b94e827b98d3ea17e010831c[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 21:22:28 2020 -0500
+
+    Business Account change
+
+[33mcommit e2f4d5e3d3722b172a5405049c6a595ddd71d9bb[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 21:19:11 2020 -0500
+
+    This is another child of business account
+
+[33mcommit c325b47e25c95d6b9c7de936747c2b75753128c1[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 21:18:30 2020 -0500
+
+    I am starting this child
+
+[33mcommit d84c301833f223647223f720100b028b0fd1aedf[m
+Merge: 9ccb060 1cfec16
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Wed Nov 4 20:39:18 2020 -0500
+
+    Merged Account.h
+
+[33mcommit 9ccb060ece06301e13147151c1120c25078961da[m
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Wed Nov 4 20:35:21 2020 -0500
+
+    Added Account and Transaction classes. These classes are NOT tested yet!
+
+[33mcommit 1cfec16d712a6b90eb366f4f3cd1f95706b0b9a4[m
+Author: Gabriel <gabrielaraujofe@gmail.com>
+Date:   Wed Nov 4 16:52:30 2020 -0500
+
+    new edit
+
+[33mcommit ec3f0cd0eeca6cdad32b1be848090214839c3ea5[m
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Tue Nov 3 22:28:11 2020 -0500
+
+    Small change to BusinessAccount
+
+[33mcommit fdd1cb85b2872adcfa619dbd9e20de7d109c41b0[m
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Tue Nov 3 22:06:53 2020 -0500
+
+    Added empty class Account
+
+[33mcommit 286dfe6750841360de2f5a5417f90fddf6d8dcd8[m
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Tue Nov 3 21:52:16 2020 -0500
+
+    Added few base header files
+
+[33mcommit 35ab92288f6c4e5109cb5d0d0f5413289edb022a[m
+Author: Anastasiia Babenko <ababenko@my.bridgeport.edu>
+Date:   Tue Nov 3 21:24:08 2020 -0500
+
+    First commit with empty project

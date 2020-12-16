@@ -1,0 +1,6 @@
+.vs/
+BankATM/.vscode/
+x64/**
+BankATM/x64/**
+BankATM/BankATM.vcxproj
+BankATM/BankATM.vcxproj.filters
